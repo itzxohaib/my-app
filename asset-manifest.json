@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/itzxohaib/my-app/static/css/main.badcad8d.css",
+    "main.js": "/itzxohaib/my-app/static/js/main.0d51abf1.js",
+    "static/js/787.28cb0dcd.chunk.js": "/itzxohaib/my-app/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/itzxohaib/my-app/index.html",
+    "main.badcad8d.css.map": "/itzxohaib/my-app/static/css/main.badcad8d.css.map",
+    "main.0d51abf1.js.map": "/itzxohaib/my-app/static/js/main.0d51abf1.js.map",
+    "787.28cb0dcd.chunk.js.map": "/itzxohaib/my-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.badcad8d.css",
+    "static/js/main.0d51abf1.js"
+  ]
+}
